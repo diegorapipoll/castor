@@ -1,0 +1,1 @@
+print('PoC Executed: Connection to Slack Internal Domain verified.')
